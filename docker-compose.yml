@@ -25,4 +25,4 @@ services:
       - 4984:4984
     volumes:
       - ./sync_gateway:/tmp/config
-    command: /tmp/config/walrius_hook.json
+    command: /tmp/config/walrus_hook.json
