@@ -23,7 +23,8 @@ class Person:
                 'name': self.person.get('name'),
                 'height': self.person.get('height'),
                 'mass': self.person.get('mass'),
-                'gender': self.person.get('gender')
+                'gender': self.person.get('gender'),
+                'action': 'person_success',
             }
         )
 
