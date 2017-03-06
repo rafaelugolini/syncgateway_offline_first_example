@@ -4,7 +4,7 @@ This code was made for an article I wrote about how to develop offline first
 applications using [Couchbase Sync Gateway](https://developer.couchbase.com/documentation/mobile/1.3/installation/sync-gateway/index.html).
 
 
-## Concept
+## Idea 
 
 While studying react-redux, something that I really liked is the [Async Actions](http://redux.js.org/docs/advanced/AsyncActions.html)
 pattern where you have:
